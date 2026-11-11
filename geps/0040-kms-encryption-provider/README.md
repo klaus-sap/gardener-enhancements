@@ -1,15 +1,3 @@
----
-title: KMS Encryption Provider for Shoot Clusters
-gep-number: 40
-creation-date: 2026-11-05
-status: implementable
-authors:
-- "@plkokanov"
-- "@klaus-sap"
-# At least one main reviewer must be nominated before acceptance.
-reviewers: []
----
-
 # GEP-40: KMS Encryption Provider for Shoot Clusters
 
 🤖 AI generated with: gpt-6-astra
